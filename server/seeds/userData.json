@@ -1,0 +1,43 @@
+[
+    {
+        "first_name": "Roz",
+        "last_name": "Saintsbury",
+        "city": "Madison",
+        "state": "Wisconsin",
+        "email": "rsaintsbury0@dmoz.org",
+        "password": "1LrfoHopa"
+    },
+    {
+        "first_name": "Kevin",
+        "last_name": "D'Alwis",
+        "city": "Detroit",
+        "state": "Michigan",
+        "email": "kdalwis1@biglobe.ne.jp",
+        "password": "ZIK9ko6"
+    },
+    {
+        "first_name": "Augie",
+        "last_name": "Ketch",
+        "city": "Kansas City",
+        "state": "Missouri",
+        "email": "aketch2@altervista.org",
+        "password": "8qHZ6NoUM"
+    },
+
+    {
+        "first_name": "Wilfrid",
+        "last_name": "Danton",
+        "city": "Miami",
+        "state": "Florida",
+        "email": "wdanton3@blogtalkradio.com",
+        "password": "qzHNIF7w"
+    },
+    {
+        "first_name": "Roxana",
+        "last_name": "Sapir",
+        "city": "Las Vegas",
+        "state": "Nevada",
+        "email": "rsapir4@networksolutions.com",
+        "password": "mjQ2F5"
+    }
+]
